@@ -31,11 +31,11 @@ My-ChatBot
 # Before opening the **`me`** folder, please read the usage notes inside.
 
 # - Please create **`me`** folder according to structure **`above`**
-- Run
+# - Run Before You run the file
  ```
     pip install -r requirements.txt
 ```
-before using.
+
 
 -**Please fix Your linked in profile pdf in name "Profile (1).pdf"**
 -**Please do create a summary.txt and type about you in that** 
