@@ -9,10 +9,10 @@ sdk_version: 6.0.2
 
 
 **PROJECT STRUCTURE:**
- My-ChatBot\
-      └─ VGRAM_BOT\
-          ├─ (Git repo files: .git, etc.)
-          ├─ app.py          ← your main chatbot script
+ My-ChatBot\n
+      └─ VGRAM_BOT\\n
+          ├─ (Git repo files: .git, etc.)\n
+          ├─ app.py          ← your main chatbot script\n
           ├─ requirements.txt (possibly)
           ├─ venv/           ← virtual environment
           ├─.env
