@@ -5,18 +5,18 @@ sdk: gradio
 sdk_version: 6.0.2
 --- 
 # VMARG_BOT
-#PLEASE READ THE README FILE FULLY BECAUSE YOU NEED TO DO SOME CHANGES
+# PLEASE READ THE README FILE FULLY BECAUSE YOU NEED TO DO SOME CHANGES
 
 
-#PROJECT STRUCTURE:
-My-ChatBot\
-      └─ VGRAM_BOT\
-         ├─ (Git repo files: .git, etc.)
-         ├─ app.py          ← your main chatbot script
-         ├─ requirements.txt (possibly)
-         ├─ venv/           ← virtual environment
-         ├─.env
-         ├─me/
+# PROJECT STRUCTURE:
+# My-ChatBot\
+ #     └─ VGRAM_BOT\
+  #       ├─ (Git repo files: .git, etc.)
+   #      ├─ app.py          ← your main chatbot script
+         ├─ **requirements.txt (possibly)**
+         **├─ venv/           ← virtual environment**
+         **├─.env**
+         **├─me/**
             └─├─Profile (1).pdf (your linked In Pdf can change name accordingly in app.py)
               ├─summary.txt (your summary where you type about yourself)
 
@@ -25,10 +25,10 @@ My-ChatBot\
          
 
 📌 **Important Instruction**
-Before opening the **`me`** folder, please read the usage notes inside.
+# Before opening the **`me`** folder, please read the usage notes inside.
 
-- Please create **`me`** folder according to structure **`above`**
-- Run `pip install -r requirements.txt` before using.
+# - Please create **`me`** folder according to structure **`above`**
+# - Run `pip install -r requirements.txt` before using.
 
 -**Please fix Your linked in profile pdf in name "Profile (1).pdf"**
 -**Please do create a summary.txt and type about you in that** 
