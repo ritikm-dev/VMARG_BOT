@@ -8,17 +8,20 @@ sdk_version: 6.0.2
 # PLEASE READ THE README FILE FULLY BECAUSE YOU NEED TO DO SOME CHANGES
 
 
-**PROJECT STRUCTURE:**
- My-ChatBot\n
-      └─ VGRAM_BOT\\n
-          ├─ (Git repo files: .git, etc.)\n
-          ├─ app.py          ← your main chatbot script\n
-          ├─ requirements.txt (possibly)
-          ├─ venv/           ← virtual environment
-          ├─.env
-          ├─me/
-            └─├─Profile (1).pdf (your linked In Pdf can change name accordingly in app.py)
-              ├─summary.txt (your summary where you type about yourself)
+## Project Structure
+
+```
+My-ChatBot
+└─ VGRAM_BOT
+   ├─ .git/               # Git repository files
+   ├─ app.py              # Main chatbot script
+   ├─ requirements.txt    # Python dependencies
+   ├─ venv/               # Virtual environment
+   ├─ .env                # Environment variables
+   └─ me/
+      ├─ Profile (1).pdf  # Your LinkedIn PDF (can change name in app.py)
+      └─ summary.txt      # Your summary file
+```
 
 
 
