@@ -8,7 +8,7 @@ sdk_version: 6.0.2
 # PLEASE READ THE README FILE FULLY BECAUSE YOU NEED TO DO SOME CHANGES
 
 
-# PROJECT STRUCTURE:
+**PROJECT STRUCTURE:**
  My-ChatBot\
       └─ VGRAM_BOT\
           ├─ (Git repo files: .git, etc.)
