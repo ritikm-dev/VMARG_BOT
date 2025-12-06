@@ -6,6 +6,7 @@ from openai.types.responses import ResponseTextDeltaEvent
 from pypdf import PdfReader
 import requests
 
+
 load_dotenv(override=True)
 gemini_client=AsyncOpenAI(base_url=os.getenv("GEMINI_BASE_URL"),api_key=os.getenv("GEMINI_API_KEY"))
 gemini_model=OpenAIChatCompletionsModel(openai_client=gemini_client,model="gemini-2.0-flash")
