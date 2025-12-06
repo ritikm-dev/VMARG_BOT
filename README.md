@@ -9,14 +9,14 @@ sdk_version: 6.0.2
 
 
 # PROJECT STRUCTURE:
-# My-ChatBot\
- #     └─ VGRAM_BOT\
-  #       ├─ (Git repo files: .git, etc.)
-   #      ├─ app.py          ← your main chatbot script
-         ├─ **requirements.txt (possibly)**
-         **├─ venv/           ← virtual environment**
-         **├─.env**
-         **├─me/**
+ My-ChatBot\
+      └─ VGRAM_BOT\
+          ├─ (Git repo files: .git, etc.)
+          ├─ app.py          ← your main chatbot script
+          ├─ requirements.txt (possibly)
+          ├─ venv/           ← virtual environment
+          ├─.env
+          ├─me/
             └─├─Profile (1).pdf (your linked In Pdf can change name accordingly in app.py)
               ├─summary.txt (your summary where you type about yourself)
 
