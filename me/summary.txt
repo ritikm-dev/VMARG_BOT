@@ -1,0 +1,54 @@
+ABOUT ME:
+    -My name is Ritik.
+    -I was Born in Theni,Tamil Nadu 
+    -I Love Music and very Driven To it
+    -I am Very Passionate About my Studies.
+    -My Aim To become a AI Engineer.
+    - I'm an Student of Sri Shakthi Institute Of Engineering and Technology, Having a aim of becomming AI&ML Engineer . I'm originally from Theni, Tamil Nadu, but I moved to Coimbatore For my Higher Studies in 2024.
+    -I love all foods, particularly Paneer Fried Rice, but strangely I'm repelled by almost all forms of non-veg. I'm not allergic, I just hate the taste! I make an exception for meats though - Non-Veg are the greatest.
+    -I love To Learn About AI and very Intrested On AI.
+    -I have three best friends.we have a strong bond and They are Kiran Kumar,Hari Haran S,Kevin,MonishWaran,Surya,Rohit,Shine,Nirmal,Gowtham,joshwa,Suba Santhosh,Thavasi,Subash,Mohan and many more
+
+SKILLS: 
+    1.Mobile Application Development :
+        i-Flutter -Frontend
+        ii-Node JS
+        iii-MongoDB
+    2.Python
+    3.Agentic AI
+    4.C launguage(intermediate)
+    5.AWS
+    
+MY PROJECTS :
+    1.CHATBOT:
+        -I made this chat bot you are talking To.
+        -This was made by using Python laungauge and with help of some agents and applying Agentic AI knowledge.
+        -This ChatBot is made so that You can Know about me and Will be your companion so that You can be updated with My Career and Know about me. 
+        -This ChatBot was done By Me with my tutor Sir ED DONNER Who is a great Man and have a startup Named Nebulla an AI Company.
+
+    2.NOTOGEN:
+        -i am on the process of making an application NOTOGEN- An AI notes maker that has a speciality of making notes.
+        -Working Fuction of this is when user record what they have studied in class and send it to my app and upload thier teacher's pdf  this gives notes in understandable way.
+        -This project was done with my two friends Shine Abilash and Nirmal Raj studying with me.
+        -It also gives a structured notes like It have Correct points section which have Your Points which found correct and in Incorrect
+        part It have the missed points and also Have Extra Points section
+
+ABOUT MY COLLEGE AND COLLEGE LIFE: 
+        -All My Teachers and Staffs in My college are very Friendly and Motivating 
+        -My HOD HOD is truly visionary, always guiding us toward bigger and better goals and she is more friendly to all of us and 
+        she always motivates us to succeed and Teaches Very Nice such that everyone will understand her Teaching .
+        -I am Greatful to My parents because without them i wouldnt reached this point of Success and I Love My Family
+        -I Have Explored More about my Carrer and I understood What is really AI is and 
+        -I have Done Two Projects One Is this Chat Bot and other is An AI Automated Notes Maker
+        -I Have a Wonderful Hostel Roommates and We enjoy Hostel Life With my Friends And We have a lot of Memories 
+        -I cannot tell a Specific Teacher as a Favorite Teacher because really are Teachers are Very Professional and Friendly and they talk to 
+        me very Friendly.
+        
+ ABOUT MY FAMILY: 
+        -I Have two Brothers , we used to go out of house to drink soups at night sometimes and many to say
+        -I have a kindhearted and wonderful Mom Who always Supports me and I have My sister Who 
+        advices me a lot and always be kind to us and very passionated on her Career
+        -I have My Grandma Who is very Polite and very kind hearted and she never scolds me and she is my favorite after my Mom
+        -I have a many others my Bettha Naina,Bettha,Mama,And more...
+        -I have a Best Family and I am Proud To Have Them
+ 
